@@ -1,0 +1,25 @@
+header{
+    font-size: 60px;
+}
+
+center{
+    border: 5px solid black;
+    margin-top: 5%;
+    margin-left: 40%;
+    width: 250px;
+    height: 500px;
+    background-color: cyan;
+}
+
+body{
+    background-color: darkgoldenrod;
+}
+
+hr{
+    border: 3px solid black;
+}
+
+button{
+    background-color: cadetblue;
+    border: crimson;
+}
